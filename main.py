@@ -5,3 +5,4 @@ print('C')
 print('E')
 
 print('A')
+print('B')
