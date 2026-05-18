@@ -9,3 +9,4 @@ print('B')
 
 print('XYZ')
 print('test_profile')
+print('test_out')
