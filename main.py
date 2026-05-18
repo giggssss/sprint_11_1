@@ -8,3 +8,4 @@ print('A')
 print('B')
 
 print('XYZ')
+print('from profile')
