@@ -10,4 +10,4 @@ print('B')
 print('XYZ')
 print('from online')
 
-print('from online 2')
+print('from local')
